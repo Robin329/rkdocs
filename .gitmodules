@@ -1,0 +1,3 @@
+[submodule "RK3588-Development-Board"]
+	path = RK3588-Development-Board
+	url = https://github.com/industrialtablet/RK3588-Development-Board.git
